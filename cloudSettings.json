@@ -995,7 +995,8 @@
                 "ボイス",
                 "アクリルキーホルダー",
                 "ネイル",
-                "Nail"
+                "Nail",
+                "ヘアピン"
             ],
             "titleKeywords": [
                 "髪型",
@@ -1136,6 +1137,37 @@
             "minPrice": 0,
             "minLike": 0,
             "channelId": 1220635406601682974
+        },
+        {
+            "id": "ヘアピン",
+            "sql": "",
+            "botId": "booth-bot-2",
+            "useAvatarRelevanceEvaluation": false,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [
+                "ヘアピン"
+            ],
+            "keywords": [],
+            "productNames": [],
+            "minPrice": 0,
+            "minLike": 0,
+            "channelId": 1535359502591991931
         },
         {
             "id": "アクセサリー",
