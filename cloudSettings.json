@@ -15,6 +15,10 @@
     "footerText": "https://booth.pm/",
     "gameStatues": [
         {
+            "botId": "booth-bot-0",
+            "gameStatus": "discord"
+        },
+        {
             "botId": "booth-bot-1",
             "gameStatus": "VRChat"
         },
@@ -7825,7 +7829,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499945745917284432
-        },        {
+        },       
+        {
             "id": "カプリィナ_Caprilina",
             "sql": "",
             "botId": "booth-bot-3",
@@ -7858,7 +7863,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499960111303622666
-        },        {
+        },        
+        {
             "id": "クマリ_Kumaly",
             "sql": "",
             "botId": "booth-bot-3",
@@ -7891,7 +7897,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499960952936730694
-        },        {
+        },        
+        {
             "id": "Nakiya_泣夜",
             "sql": "",
             "botId": "booth-bot-3",
@@ -7924,7 +7931,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499961015213756588
-        },        {
+        },        
+        {
             "id": "あゆさ_Ayusa",
             "sql": "",
             "botId": "booth-bot-3",
@@ -7957,7 +7965,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499961088647757946
-        },        {
+        },        
+        {
             "id": "Maon_7800632",
             "sql": "",
             "botId": "booth-bot-3",
@@ -7989,7 +7998,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499961162278895617
-        },        {
+        },        
+        {
             "id": "とらお_Torao",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8022,7 +8032,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499961264854536224
-        },        {
+        },        
+        {
             "id": "Wendy_ウェンディ",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8055,7 +8066,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499961332559249448
-        },        {
+        },        
+        {
             "id": "咲蛇_Sachi",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8088,7 +8100,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499961390004441160
-        },        {
+        },        
+        {
             "id": "深澄_Misumi",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8121,7 +8134,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499961441246122105
-        },        {
+        },        
+        {
             "id": "KAGURA_7797764",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8153,7 +8167,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499961497202458785
-        },        {
+        },        
+        {
             "id": "ロコナ_Rokona",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8186,7 +8201,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499961572464922634
-        },        {
+        },        
+        {
             "id": "れう_LEU",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8219,7 +8235,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499961681533735105
-        },        {
+        },        
+        {
             "id": "ヒビキ_HIBIKI",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8252,7 +8269,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499962198699540512
-        },        {
+        },        
+        {
             "id": "レンフア_Renfua",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8285,7 +8303,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500195492305305691
-        },        {
+        },        
+        {
             "id": "ひかるん_Hikarun",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8318,7 +8337,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500199299445690421
-        },        {
+        },        
+        {
             "id": "スノーハヴォック_SNOWHAVOC",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8351,7 +8371,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500199361110474932
-        },        {
+        },        
+        {
             "id": "雫峰_Shizune",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8384,7 +8405,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500199428097704107
-        },        {
+        },        
+        {
             "id": "ネハイル_Nehail",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8417,7 +8439,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500199489779269672
-        },        {
+        },        
+        {
             "id": "プラム_Plum",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8450,7 +8473,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500199552496701460
-        },        {
+        },        
+        {
             "id": "翠羽_Suiha",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8483,7 +8507,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500199611674001559
-        },        {
+        },        
+        {
             "id": "黎焔_Reica",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8516,7 +8541,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500199721900314726
-        },        {
+        },        
+        {
             "id": "シユン_Siyoon",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8549,7 +8575,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500199791626551346
-        },        {
+        },        
+        {
             "id": "ルリエ_Lurie",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8582,7 +8609,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500199854058508511
-        },        {
+        },        
+        {
             "id": "柚希_Yuzuki",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8615,7 +8643,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500199918952910929
-        },        {
+        },        
+        {
             "id": "ルチカ_Luchika",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8648,7 +8677,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500199984820260885
-        },        {
+        },        
+        {
             "id": "ししゅか_siska",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8681,7 +8711,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500229528818159676
-        },        {
+        },        
+        {
             "id": "にゃも_Nyamo",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8714,7 +8745,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500229581716717692
-        },        {
+        },        
+        {
             "id": "Lumia_ルミア",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8747,7 +8779,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500230021082648666
-        },        {
+        },        
+        {
             "id": "アウルカ_Aulka",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8780,7 +8813,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500230087935656097
-        },        {
+        },        
+        {
             "id": "リナシータ_Rinasciita",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8813,7 +8847,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500230183029047296
-        },        {
+        },        
+        {
             "id": "エク_Eku",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8846,7 +8881,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500230227886870738
-        },        {
+        },        
+        {
             "id": "テルミ_Telmy",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8879,7 +8915,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500230274342981662
-        },        {
+        },        
+        {
             "id": "きゅうこ_Kyuko",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8912,7 +8949,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500230318878228522
-        },        {
+        },        
+        {
             "id": "キナ_Kina",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8945,7 +8983,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500230377707671783
-        },        {
+        },        
+        {
             "id": "DARK_CAT_WITCH_7587259",
             "sql": "",
             "botId": "booth-bot-3",
@@ -8977,7 +9016,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500230421248741376
-        },        {
+        },        
+        {
             "id": "ラムネ_Ramune",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9010,7 +9050,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500230477192237357
-        },        {
+        },        
+        {
             "id": "サバラム_Savarum",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9043,7 +9084,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500230531630235878
-        },        {
+        },        
+        {
             "id": "ツユナ_Tsuyuna",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9076,7 +9118,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500230580107870428
-        },        {
+        },        
+        {
             "id": "ルミナ_LUMINA",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9109,7 +9152,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500230637678891140
-        },        {
+        },        
+        {
             "id": "カザリス_Cazalis",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9142,7 +9186,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1500231826470600867
-        },        {
+        },        
+        {
             "id": "凪_Nagi",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9175,7 +9220,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1503666056823046276
-        },        {
+        },        
+        {
             "id": "ユーフォリカ_Euphorika",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9208,7 +9254,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1505752095805018265
-        },        {
+        },        
+        {
             "id": "まよ_mayo",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9241,7 +9288,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1507950360407445536
-        },        {
+        },        
+        {
             "id": "チロア_chiroar",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9274,7 +9322,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1508026495417978990
-        },        {
+        },        
+        {
             "id": "宵月_yozuki",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9307,7 +9356,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1510056933367742484
-        },        {
+        },        
+        {
             "id": "フィオナ_Fiona",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9340,7 +9390,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1516117448301084845
-        },        {
+        },        
+        {
             "id": "みつまめ_Mitsumame",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9373,7 +9424,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1516117539233595624
-        },        {
+        },        
+        {
             "id": "弐番_NIBAN",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9406,7 +9458,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1516118067246006484
-        },        {
+        },        
+        {
             "id": "ベニちゃん_Beni Chan",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9439,7 +9492,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1516118134472442007
-        },        {
+        },        
+        {
             "id": "リュミィ_Ryumii",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9472,7 +9526,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1516118192760684634
-        },        {
+        },        
+        {
             "id": "白雪天使_Shirayuki Tenshi",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9505,7 +9560,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1516118237740404787
-        },        {
+        },        
+        {
             "id": "CZR100_8536202",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9570,7 +9626,8 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1526744407792160839
-        },        {
+        },        
+        {
             "id": "輝夜_kaguya",
             "sql": "",
             "botId": "booth-bot-3",
@@ -9603,6 +9660,40 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1526744495629009037
+        },        
+        {
+            "id": "㤅花_Aika",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "8740160"
+            ],
+            "productNames": [
+                "㤅花",
+                "Aika"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1542645610220363967
         }
     ]
 }
