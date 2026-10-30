@@ -9762,6 +9762,40 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1565445207518875758
+        },        
+        {
+            "id": "ミレド_Miredo",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "8906276"
+            ],
+            "productNames": [
+                "ミレド",
+                "Miredo"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1565814648526344363
         }
     ]
 }
